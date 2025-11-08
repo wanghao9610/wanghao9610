@@ -1,7 +1,7 @@
 # Hi there👋
 * 🧑 I'm [Hao Wang](https://wanghao9610.github.io), a Ph.D student in [HCP Lab](https://www.sysu-hcp.net/), SYSU.
 <!-- * 🔭 I'm working as research intern in Meituan M17-MM. -->
-* 👀 I'm currently looking for collaborations, feel free to contact me(**E-mail**: `wanghao9610@gmail.com`, **WeChat**: `wangh910`).
+* 👀 I'm currently looking for collaborations, feel free to contact me(**E-mail**: `wanghao9610@gmail.com`, **WeChat**: `wangh9610`).
 
 ## Research Projects
 * 🔥 New segmentation paradigm from segment anything to any segmentation: [X-SAM](https://github.com/wanghao9610/X-SAM).
