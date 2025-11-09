@@ -1,5 +1,5 @@
 # Hi there👋
-* 🧑 I'm [Hao Wang](https://wanghao9610.github.io), a Ph.D student in [HCP Lab](https://www.sysu-hcp.net/), SYSU.
+* 🧑 I'm [Hao Wang](https://wanghao9610.github.io), a Ph.D. student in [HCP Lab](https://www.sysu-hcp.net/), SYSU, and [Pengcheng Laboratory](https://www.pcl.ac.cn/).
 <!-- * 🔭 I'm working as research intern in Meituan M17-MM. -->
 * 👀 I'm currently looking for collaborations, feel free to contact me(**E-mail**: `wanghao9610@gmail.com`, **WeChat**: `wangh9610`).
 
