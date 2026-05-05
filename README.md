@@ -6,7 +6,7 @@
 ## Research Projects
 * 🔥 Extending any Segmentation from images to videos: [X2SAM](https://wanghao9610.github.io/X2SAM/).
 * 🔥 New segmentation paradigm from segment anything to any segmentation: [X-SAM](https://wanghao9610.github.io/X-SAM/).
-* 🔥 Unified pre-training framework for open-vocabulary detection: [OV-DINO](https://github.com/wanghao9610/OV-DINO).
+* 🔥 Unified pre-training framework for open-vocabulary detection: [OV-DINO](https://wanghao9610.github.io/OV-DINO/).
 * Temporal memory aware video segmentation: [TMANet](https://github.com/wanghao9610/TMANet).
 
 <!-- ## GitHub Stats
