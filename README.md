@@ -1,7 +1,7 @@
 # Hi there👋
 * 🫣 I'm [Hao Wang (王豪)](https://wanghao9610.github.io), a Ph.D. candidate in [HCP Lab](https://www.sysu-hcp.net/), [SYSU](https://www.sysu.edu.cn/), and [Pengcheng Laboratory](https://www.pcl.ac.cn/).
 <!-- * 🔭 I'm working as research intern in Meituan M17-MM. -->
-* 👀 I'm currently looking for collaborations, feel free to contact me(**E-mail**: `wanghao9610@gmail.com`, **WeChat**: `wangh9610`).
+* 💬 I'm currently looking for collaborations, feel free to contact me(**E-mail**: `wanghao9610@gmail.com`, **WeChat**: `wangh9610`).
 
 ## Research Projects
 * 🔥 Extending any Segmentation from images to videos: [X2SAM](https://github.com/wanghao9610/X2SAM).
