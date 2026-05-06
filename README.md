@@ -1,13 +1,18 @@
-# Hi there👋
-* 🫣 I'm [Hao Wang (王豪)](https://wanghao9610.github.io), a Ph.D. candidate in [HCP Lab](https://www.sysu-hcp.net/), [SYSU](https://www.sysu.edu.cn/), and [Pengcheng Laboratory](https://www.pcl.ac.cn/).
-<!-- * 🔭 I'm working as research intern in Meituan M17-MM. -->
-* 💬 I'm currently looking for collaborations, feel free to contact me(**E-mail**: `wanghao9610@gmail.com`, **WeChat**: `wangh9610`).
+# Hi there 👋
+
+* 🎓 I'm **Hao Wang (王豪)**, a Ph.D. candidate at [HCP Lab](https://www.sysu-hcp.net/), [Sun Yat-sen University](https://www.sysu.edu.cn/), and [Pengcheng Laboratory](https://www.pcl.ac.cn/), supervised by [Prof. Xiaodan Liang](https://scholar.google.com/citations?user=voxznZAAAAAJ&hl) and [Associate Prof. Xiangyuan Lan](https://scholar.google.com/citations?user=c3iwWRcAAAAJ&hl).
+
+* 🔬 My research focuses on **open-ended computer vision**, **multimodal large language models**, and **multimodal agentic models**, especially image/video segmentation and pixel-level multimodal understanding.
+
+* 💼 I will graduate in **December 2026** and am actively seeking research positions in the industry. I am also open to research collaborations on innovative projects. Feel free to contact me via **Email**: `wanghao9610@gmail.com` or **WeChat**: `wangh9610`.
 
 ## Research Projects
-* 🔥 Extending any Segmentation from images to videos: [X2SAM](https://wanghao9610.github.io/X2SAM/).
-* 🔥 New segmentation paradigm from segment anything to any segmentation: [X-SAM](https://wanghao9610.github.io/X-SAM/).
-* 🔥 Unified pre-training framework for open-vocabulary detection: [OV-DINO](https://wanghao9610.github.io/OV-DINO/).
-* Temporal memory aware video segmentation: [TMANet](https://github.com/wanghao9610/TMANet).
 
-<!-- ## GitHub Stats
-![Hao Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanghao9610&show_icons=true&theme=transparent) -->
+- 🔥 **[X2SAM](https://github.com/wanghao9610/X2SAM)** — Any segmentation in images and videos with conversational instructions, visual prompts, and temporally consistent mask memory.
+- **[X-SAM](https://github.com/wanghao9610/X-SAM)** — From Segment Anything to Any Segmentation, a unified MLLM framework for pixel-level perceptual understanding.
+- **[OV-DINO](https://github.com/wanghao9610/OV-DINO)** — Unified open-vocabulary detection with language-aware selective fusion.
+- **[TMANet](https://github.com/wanghao9610/TMANet)** — Temporal Memory Attention for video semantic segmentation.
+
+## Hobby Projects
+
+- 🔥 **[Claude Model Proxy](https://github.com/wanghao9610/claude-model-proxy)** — A proxy that routes Claude-style model names to multiple AI providers with per-provider API keys.
