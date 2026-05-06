@@ -4,7 +4,9 @@
 
 * 🔬 My research focuses on **open-ended computer vision**, **multimodal large language models**, and **multimodal agentic models**, especially image/video segmentation and pixel-level multimodal understanding.
 
-* 💼 I will graduate in **December 2026** and am actively seeking research positions in the industry. I am also open to research collaborations on innovative projects. Feel free to contact me via **Email**: `wanghao9610@gmail.com` or **WeChat**: `wangh9610`.
+* 💼 I will graduate in **December 2026** and am actively seeking research positions in the industry. I am also open to research collaborations on innovative projects.
+
+* 📧 Feel free to contact me via **Email**: `wanghao9610@gmail.com` or **WeChat**: `wangh9610`.
 
 ## Research Projects
 
