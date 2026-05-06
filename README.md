@@ -8,11 +8,11 @@
 
 ## Research Projects
 
-- 🔥 **[X2SAM](https://github.com/wanghao9610/X2SAM)** — Any segmentation in images and videos with conversational instructions, visual prompts, and temporally consistent mask memory.
-- **[X-SAM](https://github.com/wanghao9610/X-SAM)** — From Segment Anything to Any Segmentation, a unified MLLM framework for pixel-level perceptual understanding.
-- **[OV-DINO](https://github.com/wanghao9610/OV-DINO)** — Unified open-vocabulary detection with language-aware selective fusion.
-- **[TMANet](https://github.com/wanghao9610/TMANet)** — Temporal Memory Attention for video semantic segmentation.
+- 🔥 Any segmentation in images and videos: [X2SAM](https://github.com/wanghao9610/X2SAM).
+- From segment anything to any segmentation: [X-SAM](https://github.com/wanghao9610/X-SAM).
+- Unified open-vocabulary detection with language-aware selective fusion: [OV-DINO](https://github.com/wanghao9610/OV-DINO).
+- Temporal memory attention for video semantic segmentation: [TMANet](https://github.com/wanghao9610/TMANet).
 
 ## Hobby Projects
 
-- 🔥 **[Claude Model Proxy](https://github.com/wanghao9610/claude-model-proxy)** — A proxy that routes Claude-style model names to multiple AI providers with per-provider API keys.
+- 🔥 Run Claude Desktop on multiple AI providers: [Claude Model Proxy](https://github.com/wanghao9610/claude-model-proxy).
