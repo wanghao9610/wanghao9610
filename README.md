@@ -1,6 +1,6 @@
 # Hi there 👋
 
-* 🎓 I'm **Hao Wang (王豪)**, a Ph.D. candidate at [HCP Lab](https://www.sysu-hcp.net/), [Sun Yat-sen University](https://www.sysu.edu.cn/), and [Pengcheng Laboratory](https://www.pcl.ac.cn/), supervised by [Prof. Xiaodan Liang](https://scholar.google.com/citations?user=voxznZAAAAAJ&hl) and [Associate Prof. Xiangyuan Lan](https://scholar.google.com/citations?user=c3iwWRcAAAAJ&hl).
+* 🎓 I'm **[Hao Wang (王豪)](https://wanghao9610.github.io/)**, a Ph.D. candidate at [HCP Lab](https://www.sysu-hcp.net/), [Sun Yat-sen University](https://www.sysu.edu.cn/), and [Pengcheng Laboratory](https://www.pcl.ac.cn/), supervised by [Prof. Xiaodan Liang](https://scholar.google.com/citations?user=voxznZAAAAAJ&hl) and [Associate Prof. Xiangyuan Lan](https://scholar.google.com/citations?user=c3iwWRcAAAAJ&hl).
 
 * 🔬 My research focuses on **open-ended computer vision** and **multimodal large language models**, with future interests in **multimodal agentic models**.
 
