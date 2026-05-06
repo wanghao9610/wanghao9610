@@ -17,4 +17,4 @@
 
 ## Hobby Projects
 
-- 🔥 Run Claude Desktop on multiple AI providers: [Claude Model Proxy](https://github.com/wanghao9610/claude-model-proxy).
+- 🔥 Run Claude on multiple AI providers: [Claude Model Proxy](https://github.com/wanghao9610/claude-model-proxy).
