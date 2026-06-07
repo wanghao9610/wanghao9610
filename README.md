@@ -18,4 +18,4 @@
 ## Hobby Projects
 
 - 🔥 Run Claude on multiple AI providers: [Claude Model Proxy](https://github.com/wanghao9610/Claude-Model-Proxy).
-- 🔥 Run Codex on Remote Server: [Codex Remote Connector](https://github.com/wanghao9610/Codex-Remote-Connector).
+- 🔥 Run Codex on remote server: [Codex Remote Connector](https://github.com/wanghao9610/Codex-Remote-Connector).
