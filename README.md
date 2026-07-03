@@ -12,7 +12,7 @@ I'm **[Hao Wang (王豪)](https://wanghao9610.github.io/)**, a Ph.D. candidate a
 
 - 🔥 Any segmentation in images and videos: [X2SAM](https://github.com/wanghao9610/X2SAM)
 - 🔥 From segment anything to any segmentation: [X-SAM](https://github.com/wanghao9610/X-SAM)
-- Unified open-vocabulary detection with language-aware selective fusion: [OV-DINO](https://github.com/wanghao9610/OV-DINO)
+- Unified open-vocabulary detection: [OV-DINO](https://github.com/wanghao9610/OV-DINO)
 - Temporal memory attention for video semantic segmentation: [TMANet](https://github.com/wanghao9610/TMANet)
 
 ## Hobby Projects
