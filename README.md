@@ -17,6 +17,7 @@ I'm **[Hao Wang (王豪)](https://wanghao9610.github.io/)**, a Ph.D. candidate a
 
 ## Hobby Projects
 
+- 🔥 Starter Template for AI Research (WIP): [STAR](https://github.com/wanghao9610/STAR)
 - 🔥 Template paper for arXiv or any conference: [arXivTeX](https://github.com/wanghao9610/arXivTeX)
 - Run Codex on a remote server: [Codex Remote Connector](https://github.com/wanghao9610/Codex-Remote-Connector)
 - Run Claude on multiple AI providers: [Claude Model Proxy](https://github.com/wanghao9610/Claude-Model-Proxy)
