@@ -17,6 +17,7 @@ I'm **[Hao Wang (王豪)](https://wanghao9610.github.io/)**, a Ph.D. candidate a
 
 ## Hobby Projects
 
+- 🔥 Oh My DeepSeek Harness Plugins: [omdsh-plugins](https://github.com/omdsh-plugins)
 - 🔥 Systematic Toolchain for Authoring, Guiding, and Editing (Harness, WIP): [STAGE](https://github.com/wanghao9610/STAGE)
 - 🔥 Systematic Toolchain for AI Research (Harness, WIP): [STAR](https://github.com/wanghao9610/STAR)
 - Template paper for arXiv or any conference: [arXivTeX](https://github.com/wanghao9610/arXivTeX)
