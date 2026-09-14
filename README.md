@@ -20,7 +20,8 @@ I'm **[Hao Wang (王豪)](https://wanghao9610.github.io/)**, a Ph.D. candidate a
 - 🔥 Systematic Toolchain for Organizing Research over Years (Harness, WIP): [STORY](https://github.com/wanghao9610/STORY)
 - 🔥 Systematic Toolchain for Authoring, Guiding, and Editing (Harness, WIP): [STAGE](https://github.com/wanghao9610/STAGE)
 - 🔥 Systematic Toolchain for AI Research (Harness, WIP): [STAR](https://github.com/wanghao9610/STAR)
-- 🔥 Oh My DeepSeek Harness Plugins: [omdsh-plugins](https://omdsh-plugins.github.io/)
+- Oh My DeepSeek Harness Plugins: [omdsh-plugins](https://omdsh-plugins.github.io/)
 - Template paper for arXiv or any conference: [arXivTeX](https://github.com/wanghao9610/arXivTeX)
+- Ascend NPU Toolkits: [npu-burn](https://github.com/wanghao9610/npu-burn) and [npustat](https://github.com/wanghao9610/npustat).
 - Run Codex on a remote server: [Codex Remote Connector](https://github.com/wanghao9610/Codex-Remote-Connector)
 - Run Claude on multiple AI providers: [Claude Model Proxy](https://github.com/wanghao9610/Claude-Model-Proxy)
