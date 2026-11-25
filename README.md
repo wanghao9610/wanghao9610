@@ -4,7 +4,7 @@ I'm **[Hao Wang (王豪)](https://wanghao9610.github.io/)**, a Ph.D. candidate a
 
 🔬 My research centers on **open-ended computer vision** and **multimodal large language models**, and I'm increasingly exploring **multimodal agentic models**.
 
-🎓 I'll graduate in **December 2026** and am actively looking for research roles in industry — I'm also open to research collaborations on interesting projects.
+🎓 I'll graduate in **June 2027** and am actively looking for research roles in industry — I'm also open to research collaborations on interesting projects.
 
 📧 Reach me via **Email**: `wanghao9610@gmail.com` or **WeChat**: `wangh9610`.
 
